@@ -1,0 +1,49 @@
+[33mcommit 63ae082725053dd64f227d04ca2c69009706ec3e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MD <dubrmax@gmail.com>
+Date:   Wed Oct 15 18:25:14 2025 +0300
+
+    new clear data
+
+[33mcommit 5daa01f0f819789a87f548a7211c8ba8ba24358a[m
+Author: MD <dubrmax@gmail.com>
+Date:   Wed Oct 15 16:41:22 2025 +0300
+
+    Clear data
+
+[33mcommit bf6875b27b48ab4feb0f4c9825d70a93e1e4f5bc[m
+Author: MD <dubrmax@gmail.com>
+Date:   Wed Oct 15 16:40:22 2025 +0300
+
+    Clear data
+
+[33mcommit 9c9592f699a2ff765da16235b6d8b88a9acd53f6[m
+Author: MD <dubrmax@gmail.com>
+Date:   Wed Oct 15 12:10:05 2025 +0300
+
+    Delete data/raw/Untitled.ipynb
+    
+    Dont nedeed
+
+[33mcommit a5d370f5d5697aabe9fdb4f11b0610f559d12cd8[m
+Author: MD <dubrmax@gmail.com>
+Date:   Wed Oct 15 12:03:33 2025 +0300
+
+    Changes
+
+[33mcommit accce3dcacd8d20ab962255fcd3c4a1924d01d1b[m
+Author: Maksim <dubrmax@gmail.com>
+Date:   Sat Oct 11 11:53:19 2025 +0300
+
+    Добавлен датасет OnlineRetail
+
+[33mcommit 4f0ed06aeebe7c2821d7fd6acf1381562bd2a9bc[m
+Author: MD <dubrmax@gmail.com>
+Date:   Thu Oct 9 18:52:11 2025 +0300
+
+    README.md
+
+[33mcommit 1dffb368863de68acebb59989fd1d650e8bdb7ae[m
+Author: MD <dubrmax@gmail.com>
+Date:   Wed Oct 8 18:13:21 2025 +0300
+
+    Initial commit
